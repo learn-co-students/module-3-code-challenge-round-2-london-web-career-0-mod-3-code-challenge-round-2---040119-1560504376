@@ -5,7 +5,7 @@
       "name": "Buzz",
       "tagline": "A Real Bitter Experience.",
       "first_brewed": "09/2007",
-      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+      "description": "HELLOA light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Spicy chicken tikka masala",
@@ -13,7 +13,22 @@
         "Caramel toffee cake"
       ],
       "brewers_tips": "The earthy and floral aromas from the hops can be overpowering. Drop a little Cascade in at the end of the boil to lift the profile with a bit of citrus.",
-      "contributed_by": "Sam Mason <samjbmason>"
+      "contributed_by": "Sam Mason <samjbmason>",
+      "editedBeer": {
+        "id": 1,
+        "name": "Buzz",
+        "tagline": "A Real Bitter Experience.",
+        "first_brewed": "09/2007",
+        "description": "HELLOA light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+        "image_url": "https://images.punkapi.com/v2/keg.png",
+        "food_pairing": [
+          "Spicy chicken tikka masala",
+          "Grilled chicken quesadilla",
+          "Caramel toffee cake"
+        ],
+        "brewers_tips": "The earthy and floral aromas from the hops can be overpowering. Drop a little Cascade in at the end of the boil to lift the profile with a bit of citrus.",
+        "contributed_by": "Sam Mason <samjbmason>"
+      }
     },
     {
       "id": 3,
@@ -65,7 +80,7 @@
       "name": "Electric India",
       "tagline": "Vibrant Hoppy Saison.",
       "first_brewed": "05/2013",
-      "description": "wow so good!",
+      "description": "Trash",
       "image_url": "https://images.punkapi.com/v2/6.png",
       "food_pairing": [
         "Mussels with a garlic and herb sauce",
